@@ -7,6 +7,6 @@
 
 ## Como Executar
 ```bash
-git clone https://github.com/seu-usuario/ecommerce-fullstack.git
+git clone https://github.com/LucasCPortilho/ecommerce-fullstack.git
 cd ecommerce-fullstack
 docker-compose up
