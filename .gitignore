@@ -1,0 +1,19 @@
+# Dependências
+node_modules/
+
+# Ambiente
+.env
+.env.local
+.serverless/
+
+# Banco de dados
+*.sqlite
+*.db
+
+# IDE
+.vscode/
+.idea/
+
+# Outros
+.DS_Store
+dist/
